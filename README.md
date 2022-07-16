@@ -1,7 +1,12 @@
-# Getting Started with Create React App
+# What is this app about?
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This app allows you to edit your text. 
+1. Remove all extra spaces. 
+2. All unordered text should be formatted in a readable way. 
+3. Capitalize the text
+4. Lowercase the text.
+Any many other text modifiers. 
+Not only this app also comes with a dark mode according to user preferences.
 ## Available Scripts
 
 In the project directory, you can run:
