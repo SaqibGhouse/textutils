@@ -7,6 +7,9 @@ This app allows you to edit your text.
 4. Lowercase the text.
 Any many other text modifiers. 
 Not only this app also comes with a dark mode according to user preferences.
+Web App Demo:
+https://textutils-0334-7c9c2.web.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
