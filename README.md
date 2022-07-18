@@ -10,6 +10,13 @@ Not only this app also comes with a dark mode according to user preferences.
 Web App Demo:
 https://textutils-0334-7c9c2.web.app/
 
+### Dark Mode
+![textutils dark mode](https://user-images.githubusercontent.com/84792821/179527690-97f277bc-2140-4e87-9b8e-6304c812e0b6.PNG)
+
+### White Mode
+![textutils white mode](https://user-images.githubusercontent.com/84792821/179527933-ca0e61a7-b0d4-4a59-9245-9ed0e8009729.PNG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -30,13 +37,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
